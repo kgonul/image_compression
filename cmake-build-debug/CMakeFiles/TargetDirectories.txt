@@ -1,0 +1,3 @@
+/Users/kadirgonul/CLionProjects/data_compression_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kadirgonul/CLionProjects/data_compression_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kadirgonul/CLionProjects/data_compression_project/cmake-build-debug/CMakeFiles/data_compressor.dir
